@@ -1,2 +1,2 @@
 #!/bin/bash
-read -r input_text && echo "$input_text" | rev
+tac
